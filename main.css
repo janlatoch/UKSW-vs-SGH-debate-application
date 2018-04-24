@@ -20,12 +20,34 @@ html
 }
 .university-name
 {
+    top:40px;
     text-align: center;
-    font-size: 7em;
+    font-size: 4em;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 .score
 {
     text-align: center;
     font-size: 6em;
+    margin-top: 20px;
+}
+#uksw-goal
+{
+    display: block;
+    margin: auto;
+    font-size: 3em;
+    padding: 10px 30px;;
+    
+}
+img
+{
+    display: block;
+    width: 40%;
+    margin: auto;
+    
+}
+figure
+{
+    margin: auto;
 }
