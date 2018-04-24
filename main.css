@@ -1,0 +1,20 @@
+html
+{
+    margin: 0;
+    padding: 0;
+}
+
+.uksw-container
+{
+    background-color: aqua;
+    height: 100%;
+    float: left;
+    width: 50%;
+}
+.sgh-container
+{
+    background-color: yellow;
+    height: 100%;
+    float: right;
+    width: 50%;
+}
