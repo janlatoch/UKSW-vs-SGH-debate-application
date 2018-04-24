@@ -21,6 +21,11 @@ html
 .university-name
 {
     text-align: center;
-    font-size: 5em;
-    margin-top: 
+    font-size: 7em;
+    margin-top: 20px;
+}
+.score
+{
+    text-align: center;
+    font-size: 6em;
 }
