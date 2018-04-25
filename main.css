@@ -6,14 +6,14 @@ html
 
 .uksw-container
 {
-    background-color: aqua;
+    background-color: #BEC4D9;
     height: 100%;
     float: left;
     width: 50%;
 }
 .sgh-container
 {
-    background-color: yellow;
+    background-color: #C2E2C9;
     height: 100%;
     float: right;
     width: 50%;
