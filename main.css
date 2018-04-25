@@ -20,34 +20,35 @@ html
 }
 .university-name
 {
-    top:40px;
+    letter-spacing: 0.em;
     text-align: center;
     font-size: 4em;
-    margin-top: 20px;
+    
     margin-bottom: 20px;
 }
 .score
 {
     text-align: center;
-    font-size: 6em;
-    margin-top: 20px;
-}
-#uksw-goal
-{
-    display: block;
-    margin: auto;
-    font-size: 3em;
-    padding: 10px 30px;;
-    
+    font-size: 9em;
+    margin-top: 50px;
+    margin-bottom: 70px;
 }
 img
 {
+    padding-top: 30px;
     display: block;
-    width: 40%;
-    margin: auto;
+    width: 60%;
+    margin: auto;  
     
+    
+}
+.sgh-logo img
+{
+    vertical-align: middle;
 }
 figure
 {
     margin: auto;
+    height: 400px;
+    
 }
